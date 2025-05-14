@@ -1,0 +1,23 @@
+{
+  "name": "t-read-file",
+  "version": "1.0.9",
+  "description": "读取文件内容",
+  "main": "cli.js",
+  "type": "module",
+  "bin": {
+    "t-read-file": "./cli.js"
+  },
+  "keywords": [
+    "cli",
+    "工具"
+  ],
+  "author": "tongshisan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tongshisan/t-read-file"
+  },
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
